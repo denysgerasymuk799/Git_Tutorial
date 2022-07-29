@@ -44,6 +44,8 @@ void sort_array(int nums[], int n) {
         printf("%d ", nums[i]);
 
     printf("\n");
+
+    printf("End of sort_array function\n");
 }
 
 
