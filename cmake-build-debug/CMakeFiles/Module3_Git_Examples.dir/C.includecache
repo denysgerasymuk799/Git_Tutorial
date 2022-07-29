@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/denys_herasymuk/Studying/Anaconda_Course/Code/Module3_Git_Examples/src/lecture1.c
+stdio.h
+-
+
+/home/denys_herasymuk/Studying/Anaconda_Course/Code/Module3_Git_Examples/src/lecture2.c
+

@@ -1,0 +1,3 @@
+/home/denys_herasymuk/Studying/Anaconda_Course/Code/Module3_Git_Examples/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/denys_herasymuk/Studying/Anaconda_Course/Code/Module3_Git_Examples/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/denys_herasymuk/Studying/Anaconda_Course/Code/Module3_Git_Examples/cmake-build-debug/CMakeFiles/Module3_Git_Examples.dir
