@@ -12,6 +12,7 @@ float get_array_average(const int nums[], int n) {
 
 void sort_array(int nums[], int n) {
     int swap;
+    printf("Start array sorting\n");
     for (int i = 0 ; i < n - 1; i++) {
         for (int j = 0 ; j < n - i - 1; j++) {
             if (nums[j] > nums[j + 1]) {
