@@ -34,6 +34,7 @@ void run_demo() {
 }
 
 int main() {
+    printf("Start program\n");
     run_demo();
     return 0;
 }
