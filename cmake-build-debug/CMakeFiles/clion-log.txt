@@ -1,4 +1,0 @@
-/home/denys_herasymuk/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/212.5284.51/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/denys_herasymuk/Studying/Anaconda_Course/Code/Module3_Git_Examples
--- Configuring done
--- Generating done
--- Build files have been written to: /home/denys_herasymuk/Studying/Anaconda_Course/Code/Module3_Git_Examples/cmake-build-debug

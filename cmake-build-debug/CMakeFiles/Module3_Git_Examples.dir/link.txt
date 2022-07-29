@@ -1,1 +1,0 @@
-/usr/bin/cc -g CMakeFiles/Module3_Git_Examples.dir/src/lecture1.c.o CMakeFiles/Module3_Git_Examples.dir/src/lecture2.c.o CMakeFiles/Module3_Git_Examples.dir/src/lecture3.c.o -o Module3_Git_Examples 
