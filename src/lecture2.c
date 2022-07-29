@@ -40,6 +40,8 @@ void sort_array(int nums[], int n) {
     quicksort(nums, 0, n - 1);
     printf("Sorted list in ascending order:\n");
 
+    printf("new print\n");
+
     for (int i = 0; i < n; i++)
         printf("%d ", nums[i]);
 
