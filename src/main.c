@@ -10,25 +10,6 @@ float get_array_average(const int nums[], int n) {
 }
 
 
-void sort_array(int nums[], int n) {
-    int swap;
-    for (int i = 0 ; i < n - 1; i++) {
-        for (int j = 0 ; j < n - i - 1; j++) {
-            if (nums[j] > nums[j + 1]) {
-                swap = nums[j];
-                nums[j] = nums[j + 1];
-                nums[j + 1] = swap;
-            }
-        }
-    }
-    printf("Sorted list in ascending order:\n");
-
-    for (int i = 0; i < n; i++)
-        printf("%d ", nums[i]);
-
-    printf("\n");
-}
-
 
 void run_demo() {
     int nums[100], n, i;
@@ -50,12 +31,9 @@ void run_demo() {
 
     avg = get_array_average(nums, n);
     printf("Average = %.2f\n", avg);
-    sort_array(nums, n);
 }
-
 
 int main() {
     run_demo();
-
     return 0;
 }

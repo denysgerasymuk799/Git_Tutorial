@@ -2,7 +2,6 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=c
 .idea
 cmake-build-debug
-src/file.txt
 
 ### C ###
 # Prerequisites
