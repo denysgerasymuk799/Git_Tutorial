@@ -37,6 +37,8 @@ void quicksort(int number[], int first, int last){
 
 
 void sort_array(int nums[], int n) {
+    printf("Start a quick sort function\n");
+
     quicksort(nums, 0, n - 1);
     printf("Sorted list in ascending order:\n");
 
