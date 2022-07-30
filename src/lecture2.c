@@ -73,5 +73,6 @@ void run_demo() {
 
 int main() {
     run_demo();
+
     return 0;
 }
